@@ -53,7 +53,5 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: DiogoCezar](https://img.shields.io/badge/-diogocezar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogocezar/)](https://www.linkedin.com/in/diogocezar/)
-
 [![Gmail Badge](https://img.shields.io/badge/-diogo@diogocezar.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diogo@diogocezar.com)](mailto:diogo@diogocezar.com)
-
 [![GitHub DiogoCezar](https://img.shields.io/github/followers/diogocezar?label=follow&style=social)](https://github.com/diogocezar)
