@@ -1,6 +1,8 @@
 
 ![](https://komarev.com/ghpvc/?username=diogocezar&color=006bed)
 
+[![Site Badge](https://img.shields.io/badge/-http://diogocezar.dev-006bed?style=flat-square&logo=website&logoColor=white&link=http://diogocezar.dev)](http://diogocezar.dev)
+
 <h3> :metal: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Dinossauro da Internet, mais velho que um 💾. ♥️ tecnologia!
@@ -14,12 +16,14 @@
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![NestJs](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
+  ![NextJs](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextjs)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostGreSQL](https://img.shields.io/badge/-PostGreSQL-333333?style=flat&logo=postgres)
 
 **Utilidades**
 
@@ -47,6 +51,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: DiogoCezar](https://img.shields.io/badge/-diogocezar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/diogocezar/))]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/diogocezar/))
+[![Linkedin: DiogoCezar](https://img.shields.io/badge/-diogocezar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogocezar/](https://www.linkedin.com/in/diogocezar/)
 [![Gmail Badge](https://img.shields.io/badge/-diogo@diogocezar.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diogo@diogocezar.com)](mailto:diogo@diogocezar.com)
-[![GitHub DiogoCezar]( https://img.shields.io/github/followers/diogocezar?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/diogocezar))
+[![GitHub DiogoCezar]( https://img.shields.io/github/followers/diogocezar?label=follow&style=social)](https://github.com/diogocezar)
