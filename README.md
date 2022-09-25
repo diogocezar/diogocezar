@@ -44,11 +44,11 @@
 
 **Ferramentas de Desenvolvimento**
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack&logoColor=007ACC)
-  ![AdobeXd](https://img.shields.io/badge/-AdobeXd-333333?style=flat&logo=adobexd&logoColor=007ACC)
-  ![Adobe Photoshop](https://img.shields.io/badge/-AdobePhotoshop-333333?style=flat&logo=photoshop&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+  ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack)
+  ![AdobeXd](https://img.shields.io/badge/-AdobeXd-333333?style=flat&logo=adobexd)
+  ![Adobe Photoshop](https://img.shields.io/badge/-AdobePhotoshop-333333?style=flat&logo=adobephotoshop)
 
 <br/>
 
