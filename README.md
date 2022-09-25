@@ -13,6 +13,7 @@
 **Aplicações e Dados**
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![NestJs](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
   ![NextJs](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextjs)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -25,7 +26,6 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostGreSQL](https://img.shields.io/badge/-PostGreSQL-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqlserver)
   ![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqlserver)
   
 
