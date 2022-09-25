@@ -47,8 +47,10 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack)
-  ![AdobeXd](https://img.shields.io/badge/-AdobeXd-333333?style=flat&logo=adobexd)
+  ![Adobe Xd](https://img.shields.io/badge/-AdobeXd-333333?style=flat&logo=adobexd)
   ![Adobe Photoshop](https://img.shields.io/badge/-AdobePhotoshop-333333?style=flat&logo=adobephotoshop)
+  ![Adobe Illustrator](https://img.shields.io/badge/-AdobeIllustrator-333333?style=flat&logo=adobeillustrator)
+  ![Adobe InDesign](https://img.shields.io/badge/-AdobeInDesign-333333?style=flat&logo=adobeInDesign)
 
 <br/>
 
