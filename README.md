@@ -6,6 +6,7 @@
 - 🤔 &nbsp; Dinossauro da Internet, mais velho que um 💾. ♥️ tecnologia!
 - 🎓 &nbsp; Mestre em IA pela UFPR.
 - 💭 &nbsp; I’m just a guy that knows that knows nothing. And it’s exactly what makes me moving on. As teacher, talker, developer and technology enthusiastic, I am always searching for new challenges.
+- 📄 &nbsp; Faça o download do meu Currículo <a href="https://www.diogocezar.dev/assets/docs/diogocezar.pdf">aqui.</a>
 - 💼 &nbsp; Trabalhando como **Head de Tecnologia** na <a href="https://bankme.tech/">Bankme</a>
 - 🌱 &nbsp; Em constante aprendizado, estudando um pouco sobre NodeJs, ReactJs, Angular, NestJs e NextJs.
 
