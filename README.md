@@ -9,7 +9,7 @@
 - 💭 &nbsp; I’m just a guy that knows that knows nothing. And it’s exactly what makes me moving on. As teacher, talker, developer and technology enthusiastic, I am always searching for new challenges
 - 📄 &nbsp; Acesse meu site <a href="https://www.diogocezar.dev">aqui</a>
 - 🌱 &nbsp; Agende uma mentoria grátis <a href="https://www.diocodes.dev">aqui</a>
-- 💼 &nbsp; Trabalhando como **Head de Tecnologia** na <a href="https://bankme.tech/">🏝️ Ferias&Co</a>
+- 💼 &nbsp; Trabalhando como **Head de Tecnologia** na <a href="https://ferias.co/">🏝️ Ferias&Co</a>
 - 💼 &nbsp; Co-founder na <a href="https://typper.io/">Typper</a>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
