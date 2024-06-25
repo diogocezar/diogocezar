@@ -15,6 +15,12 @@ I've also had the privilege of teaching various computer engineering courses at 
 - 💼 &nbsp; Working as **Head of Technology**
 - 💼 &nbsp; Co-founder at <a href="https://typper.io/">Typper</a>
 
+<h3> 🧠 &nbsp;Skills </h3>
+- **Programming Languages**: Node, React, Python, Java
+- **Frameworks & Libraries**: Nextjs, Nestjs, Prisma
+- **Tools & Platforms**: Docker, Kubernetes, AWS, GCP
+- **Soft Skills**: Leadership, Mentorship, Project Management
+
 <h3> 📒 &nbsp;Interests </h3>
 
 - **Tech**: AI, Machine Learning, Blockchain, DevOps
@@ -24,7 +30,7 @@ I've also had the privilege of teaching various computer engineering courses at 
 <h3> :earth_americas: &nbsp;Get in Touch: </h3>
 
 [![Site Badge](https://img.shields.io/badge/-http://diogocezar.dev-006bed?style=flat-square&logo=website&logoColor=white&link=http://diogocezar.dev)](http://diogocezar.dev)
-[![Site Badge](https://img.shields.io/badge/-http://diogocezar.dev-006bed?style=flat-square&logo=website&logoColor=white&link=http://diocodes.dev)](http://diocodes.dev)
+[![Site Badge](https://img.shields.io/badge/-http://diocodes.dev-006bed?style=flat-square&logo=website&logoColor=white&link=http://diocodes.dev)](http://diocodes.dev)
 [![Linkedin: DiogoCezar](https://img.shields.io/badge/-diogocezar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogocezar/)](https://www.linkedin.com/in/diogocezar/)
 [![Gmail Badge](https://img.shields.io/badge/-diogo@diogocezar.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diogo@diogocezar.com)](mailto:diogo@diogocezar.com)
 
