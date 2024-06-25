@@ -24,9 +24,9 @@ I've also had the privilege of teaching various computer engineering courses at 
 
 <h3> 📒 &nbsp;Interests </h3>
 
-- **Tech**: AI, Machine Learning, Blockchain, DevOps
+- **Tech**: AI, Machine Learning, Leadership, Mentoring, DevOps
 - **Hobbies**: Gaming, Listening to classic rock, Exploring new technologies
-- **Community**: Mentoring tech enthusiasts and participating in tech meetups
+- **Community**: Mentoring tech and participating in tech meetups
 
 <h3> :earth_americas: &nbsp;Get in Touch: </h3>
 
