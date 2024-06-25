@@ -30,9 +30,12 @@ I've also had the privilege of teaching various computer engineering courses at 
 
 <h3> :earth_americas: &nbsp;Get in Touch: </h3>
 
-[![Site Badge](https://img.shields.io/badge/-http://diogocezar.dev-006bed?style=flat-square&logo=website&logoColor=white&link=http://diogocezar.dev)](http://diogocezar.dev)
-[![Site Badge](https://img.shields.io/badge/-http://diocodes.dev-006bed?style=flat-square&logo=website&logoColor=white&link=http://diocodes.dev)](http://diocodes.dev)
+[![Site Badge](https://img.shields.io/badge/-https://diogocezar.dev-006bed?style=flat-square&logo=website&logoColor=white&link=https://diogocezar.dev)](https://diogocezar.dev)
+
+[![Site Badge](https://img.shields.io/badge/-https://diocodes.dev-006bed?style=flat-square&logo=website&logoColor=white&link=https://diocodes.dev)](https://diocodes.dev)
+
 [![Linkedin: DiogoCezar](https://img.shields.io/badge/-diogocezar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogocezar/)](https://www.linkedin.com/in/diogocezar/)
+
 [![Gmail Badge](https://img.shields.io/badge/-diogo@diogocezar.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diogo@diogocezar.com)](mailto:diogo@diogocezar.com)
 
 
