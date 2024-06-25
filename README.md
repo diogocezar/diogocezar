@@ -1,16 +1,16 @@
 
 ![](https://komarev.com/ghpvc/?username=diogocezar&color=006bed)
 
-<h3> :metal: &nbsp;Sobre mim </h3>
+<h3> :metal: &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Dinossauro da Internet, mais velho que um 💾. ♥️ tecnologia!
-- 🎓 &nbsp; (2010~2012) Mestre em Ciências da Computação (Estudando IA) - UFPR
-- 🎓 &nbsp; (2004~2007) Tecnologia em Desenvolvimento de Sistema - UTFPR
-- 💭 &nbsp; I’m just a guy that knows that knows nothing. And it’s exactly what makes me moving on. As teacher, talker, developer and technology enthusiastic, I am always searching for new challenges
-- 📄 &nbsp; Acesse meu site <a href="https://www.diogocezar.dev">aqui</a>
-- 🌱 &nbsp; Agende uma mentoria grátis <a href="https://diocodes.dev">aqui</a>
-- 💼 &nbsp; Trabalhando como **Head de Tecnologia**
-- 💼 &nbsp; Co-founder na <a href="https://typper.io/">Typper</a>
+- 🤔 &nbsp; Internet Dinosaur, older than a 💾. ♥️ technology!
+- 🎓 &nbsp; (2010~2012) Master in Computer Science (Studying AI) - UFPR
+- 🎓 &nbsp; (2004~2007) Technology in Systems Development - UTFPR
+- 💭 &nbsp; I’m just a guy that knows that knows nothing. And it’s exactly what makes me moving on. As a teacher, talker, developer, and technology enthusiast, I am always searching for new challenges
+- 📄 &nbsp; Visit my website <a href="https://www.diogocezar.dev">here</a>
+- 🌱 &nbsp; Schedule a free mentoring session <a href="https://diocodes.dev">here</a>
+- 💼 &nbsp; Working as **Head of Technology**
+- 💼 &nbsp; Co-founder at <a href="https://typper.io/">Typper</a>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
