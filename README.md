@@ -16,6 +16,7 @@ I've also had the privilege of teaching various computer engineering courses at 
 - 💼 &nbsp; Co-founder at <a href="https://typper.io/">Typper</a>
 
 <h3> 🧠 &nbsp;Skills </h3>
+
 - **Programming Languages**: Node, React, Python, Java
 - **Frameworks & Libraries**: Nextjs, Nestjs, Prisma
 - **Tools & Platforms**: Docker, Kubernetes, AWS, GCP
