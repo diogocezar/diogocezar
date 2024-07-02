@@ -13,7 +13,7 @@ I've also had the privilege of teaching various computer engineering courses at 
 - 📄 &nbsp; Visit my website <a href="https://www.diogocezar.dev">here</a>
 - 🌱 &nbsp; Schedule a free mentoring session <a href="https://diocodes.dev">here</a>
 - 💼 &nbsp; Working as **Head of Technology**
-- 💼 &nbsp; Co-founder at <a href="https://typper.io/">Typper</a>
+- 💼 &nbsp; CEO & Co-founder at <a href="https://typper.io/">Typper</a>
 
 <h3> 🧠 &nbsp;Skills </h3>
 
