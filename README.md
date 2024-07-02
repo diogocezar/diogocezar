@@ -3,8 +3,7 @@
 
 <h3> :metal: &nbsp;About Me </h3>
 
-Hello! I'm Diogo, a tech enthusiast with 17 years of experience in the industry. Currently, I am the Head of Technology and CEO of a startup that develops AI-driven products.
-I've also had the privilege of teaching various computer engineering courses at UTFPR.
+👋 Hello! My name is Diogo Cezar, a 38-year-old technology enthusiast with over 17 years of experience and a Master’s degree in AI. I’ve led high-performance teams and developed innovative solutions for major companies like Twitter, Visa, and Volkswagen, as well as notable artists such as Michel Teló and Fernando & Sorocaba. My journey includes strategic leadership roles at Neon, Luizalabs, and Provi, where I drove impactful projects and fostered team engagement. As CEO of Typper and former Head of Technology at Bankme, I have built tech cultures that prioritize team happiness and collaboration. I am passionate about leveraging technology to transform lives and am always open to new opportunities in technical leadership to continue building efficient, collaborative, and happy teams.
 
 - 🤔 &nbsp; Internet Dinosaur, older than a 💾. ♥️ technology!
 - 🎓 &nbsp; (2010~2012) Master in Computer Science (Studying AI) - UFPR
