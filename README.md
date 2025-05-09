@@ -16,7 +16,7 @@
 
 <h3> 🧠 &nbsp;Skills </h3>
 
-- **Programming Languages**: Node, React, Python, Java
+- **Programming Languages**: Node, React, Python, Java, Go, PHP, JavaScript
 - **Frameworks & Libraries**: Nextjs, Nestjs, Prisma
 - **Tools & Platforms**: Docker, Kubernetes, AWS, GCP
 - **Soft Skills**: Leadership, Mentorship, Project Management
