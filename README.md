@@ -11,8 +11,6 @@
 - 💭 &nbsp; I’m just a guy that knows that knows nothing. And it’s exactly what makes me moving on. As a teacher, talker, developer, and technology enthusiast, I am always searching for new challenges
 - 📄 &nbsp; Visit my website <a href="https://www.diogocezar.dev">here</a>
 - 🌱 &nbsp; Schedule a free mentoring session <a href="https://diocodes.dev">here</a>
-- 💼 &nbsp; Working as **Head of Technology** at <a href="https://v3.com.br">V3 Tecnologia</a>
-- 💼 &nbsp; Advisor & Co-founder at <a href="https://typper.io/">Typper</a>
 
 <h3> 🧠 &nbsp;Skills </h3>
 
