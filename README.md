@@ -3,21 +3,7 @@
 
 <h3> :metal: &nbsp;About Me </h3>
 
-🌟 I am passionate about opportunities where I can apply my experience and love for technology in a technical leadership role. My goal is to build efficient and happy teams, create collaborative organizational cultures, and continue learning and teaching.
-
-👉 Seasoned Technology Leader with over 18 years of industry experience. Master’s degree in AI and professor at UTFPR, teaching Technology in Systems Analysis and Development and Computer Engineering programs;
-
-👉 As CEO of Typper, one of the top 100 technology startups in Brazil, achieved a user base of over 50k, with more than 15k images, 17k texts, and 35k codes generated using AI.
-
-👉 As Head of Technology at Bankme, successfully doubled the velocity of technology teams and fostered a strong tech culture;
-
-👉 At Luizalabs, I was the technical reference for the Magalupay Tribe, focusing on scalability and efficiency. Support in preparation for Black Friday and creation of new products such as Wallet Magalu and Digital Account;
-
-👉 Spearheaded the integration of the Neon account into the MEI Fácil app, resulting in the acquisition of 200k customers within the first year;
-
-👉 Extensive experience in leading high-performance teams and developing innovative solutions for renowned brands such as Twitter, Visa, and Volkswagen and prominent artists like Michel Teló and Fernando & Sorocaba;
-
----
+My name is Diogo Cezar, and I am 39 years old. With over 18 years of experience in technology and a Master’s degree in AI, my journey has been marked by leading high-performance teams and developing innovative solutions for large companies.My passion for sharing knowledge has always guided my career, and I have had the honor of working with renowned brands such as Twitter, Visa, Volkswagen, and prominent artists like Michel Teló and Fernando & Sorocaba.I’ve led strategic projects and fostered team engagement at companies like Neon, Luizalabs, and Provi, driving impactful outcomes such as integrating the Neon account into MEI Fácil—gaining 200k new customers in a year—and scaling Luizalabs’ Wallet Magalu project. As a Co-founder of Typper, named a top 100 Brazilian tech startup, and former Head of Technology at Bankme, I focus on building a tech culture that values team happiness, collaboration, and impactful, responsible innovation.I am always open to opportunities where I can apply my experience and passion for technology in a technical leadership role. My goal is to build efficient and happy teams, create collaborative organizational cultures, and continue learning and teaching.
 
 - 🤔 &nbsp; Internet Dinosaur, older than a 💾. ♥️ technology!
 - 🎓 &nbsp; (2010~2012) Master in Computer Science (Studying AI) - UFPR
@@ -39,7 +25,7 @@
 - **Hobbies**: Gaming, Listening to classic rock, Exploring new technologies
 - **Community**: Mentoring tech and participating in tech meetups
 
-<h3> :earth_americas: &nbsp;Get in Touch: </h3>
+<h3> :earth_americas: &nbsp;Get in Touch </h3>
 
 [![Site Badge](https://img.shields.io/badge/-https://diogocezar.dev-006bed?style=flat-square&logo=website&logoColor=white&link=https://diogocezar.dev)](https://diogocezar.dev)
 
