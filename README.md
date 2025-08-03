@@ -3,7 +3,21 @@
 
 <h3> :metal: &nbsp;About Me </h3>
 
-👋 Hello! My name is Diogo Cezar, a 38-year-old technology enthusiast with over 18 years of experience and a Master’s degree in AI. I’ve led high-performance teams and developed innovative solutions for major companies like Twitter, Visa, and Volkswagen, as well as notable artists such as Michel Teló and Fernando & Sorocaba. My journey includes strategic leadership roles at Neon, Luizalabs, and Provi, where I drove impactful projects and fostered team engagement. As CEO of Typper and former Head of Technology at Bankme, I have built tech cultures that prioritize team happiness and collaboration. I am passionate about leveraging technology to transform lives and am always open to new opportunities in technical leadership to continue building efficient, collaborative, and happy teams.
+🌟 I am passionate about opportunities where I can apply my experience and love for technology in a technical leadership role. My goal is to build efficient and happy teams, create collaborative organizational cultures, and continue learning and teaching.
+
+👉 Seasoned Technology Leader with over 18 years of industry experience. Master’s degree in AI and professor at UTFPR, teaching Technology in Systems Analysis and Development and Computer Engineering programs;
+
+👉 As CEO of Typper, one of the top 100 technology startups in Brazil, achieved a user base of over 50k, with more than 15k images, 17k texts, and 35k codes generated using AI.
+
+👉 As Head of Technology at Bankme, successfully doubled the velocity of technology teams and fostered a strong tech culture;
+
+👉 At Luizalabs, I was the technical reference for the Magalupay Tribe, focusing on scalability and efficiency. Support in preparation for Black Friday and creation of new products such as Wallet Magalu and Digital Account;
+
+👉 Spearheaded the integration of the Neon account into the MEI Fácil app, resulting in the acquisition of 200k customers within the first year;
+
+👉 Extensive experience in leading high-performance teams and developing innovative solutions for renowned brands such as Twitter, Visa, and Volkswagen and prominent artists like Michel Teló and Fernando & Sorocaba;
+
+---
 
 - 🤔 &nbsp; Internet Dinosaur, older than a 💾. ♥️ technology!
 - 🎓 &nbsp; (2010~2012) Master in Computer Science (Studying AI) - UFPR
