@@ -9,7 +9,6 @@ My name is Diogo Cezar, and I am 39 years old. With over 18 years of experience 
 - 🎓 &nbsp; (2022) Phd computer Engineering (credits only) - UFPR
 - 🎓 &nbsp; (2010~2012) Master in Computer Science (Studying AI) - UFPR
 - 🎓 &nbsp; (2004~2007) Technology in Systems Development - UTFPR
-- 💭 &nbsp; I’m just a guy that knows that knows nothing. And it’s exactly what makes me moving on. As a teacher, talker, developer, and technology enthusiast, I am always searching for new challenges
 - 📄 &nbsp; Visit my website <a href="https://www.diogocezar.dev">here</a>
 - 🌱 &nbsp; Schedule a free mentoring session <a href="https://diocodes.dev">here</a>
 
