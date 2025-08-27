@@ -6,13 +6,17 @@
   <img src="https://komarev.com/ghpvc/?username=diogocezar&color=EA00A4&style=for-the-badge" alt="Profile Views" />
 </div>
 
-## 🎯 Sobre Mim
+<div align="center">
+
+## Sobre Mim
+
+</div>
 
 > _"Internet Dinosaur, mais velho que um 💾. ♥️ tecnologia!"_
 
 Olá! Sou o **Diogo Cezar**, um apaixonado por tecnologia com **18+ anos de experiência** e Mestrado em IA. Sou conhecido por transformar ideias em realidade e construir equipes de alta performance! 🎯
 
-### 🏆 Principais Conquistas
+### Principais Conquistas
 
 - **🎯 200k+ novos clientes** na integração Neon/MEI Fácil
 - **🚀 Top 100 startups de IA** com a Typper (50k+ usuários)
@@ -20,11 +24,15 @@ Olá! Sou o **Diogo Cezar**, um apaixonado por tecnologia com **18+ anos de expe
 - **🔗 3k+ dispositivos conectados** na V3 Tecnologia
 - **👨‍🏫 Ex-professor UTFPR** e mentor de carreira
 
-## 🛠️ Stack Tecnológica
+<div align="center">
 
-### 💻 Linguagens & Frameworks
+## Stack Tecnológica
+
+</div>
 
 <div align="center">
+
+### Linguagens & Frameworks
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-EA00A4?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-EA00A4?style=for-the-badge&logo=typescript&logoColor=white)
@@ -34,23 +42,37 @@ Olá! Sou o **Diogo Cezar**, um apaixonado por tecnologia com **18+ anos de expe
 ![NestJS](https://img.shields.io/badge/-NestJS-EA00A4?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-EA00A4?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-EA00A4?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-EA00A4?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-EA00A4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-EA00A4?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-EA00A4?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-EA00A4?style=for-the-badge&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-EA00A4?style=for-the-badge&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-EA00A4?style=for-the-badge&logo=react&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-EA00A4?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-EA00A4?style=for-the-badge&logo=prisma&logoColor=white)
 
 </div>
 
-### ☁️ Cloud & DevOps
-
 <div align="center">
+
+### Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/-AWS-EA00A4?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-EA00A4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-EA00A4?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-EA00A4?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-EA00A4?style=for-the-badge&logo=github-actions&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-EA00A4?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-EA00A4?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![DataDog](https://img.shields.io/badge/-DataDog-EA00A4?style=for-the-badge&logo=datadog&logoColor=white)
+![Metabase](https://img.shields.io/badge/-Metabase-EA00A4?style=for-the-badge&logo=metabase&logoColor=white)
 
 </div>
 
-### 🗄️ Databases
-
 <div align="center">
+
+### Databases
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-EA00A4?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-EA00A4?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -58,7 +80,11 @@ Olá! Sou o **Diogo Cezar**, um apaixonado por tecnologia com **18+ anos de expe
 
 </div>
 
-## 🏢 Experiência Profissional
+<div align="center">
+
+## Experiência Profissional
+
+</div>
 
 ### 🎯 Head of Technology @V3Tecnologia
 
@@ -97,7 +123,6 @@ Olá! Sou o **Diogo Cezar**, um apaixonado por tecnologia com **18+ anos de expe
 ![Mentoring](https://img.shields.io/badge/-Mentoring-EA00A4?style=for-the-badge&logoColor=white)
 ![Team Building](https://img.shields.io/badge/-Team%20Building-EA00A4?style=for-the-badge&logoColor=white)
 ![Project Management](https://img.shields.io/badge/-Project%20Management-EA00A4?style=for-the-badge&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-EA00A4?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -151,4 +176,8 @@ Olá! Sou o **Diogo Cezar**, um apaixonado por tecnologia com **18+ anos de expe
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=EA00A4&center=true&vCenter=true&width=600&height=50&lines=Construindo+equipes+felizes+e+eficientes;Transformando+ideias+em+realidade;Mentorando+a+pr%C3%B3xima+gera%C3%A7%C3%A3o+tech" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src=".github/footer.png" alt="Diogo Cezar - Logotipo" width="300"/>
 </div>
