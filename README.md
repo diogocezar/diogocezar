@@ -109,13 +109,21 @@ Olá! Sou o **Diogo Cezar**, um apaixonado por tecnologia com **18+ anos de expe
 
 - 🎯 Integração MEI Fácil + Neon resultando em 200k+ novos clientes no primeiro ano
 
-## 🎓 Formação Acadêmica
+<div align="center">
+
+## Formação Acadêmica
+
+</div>
 
 - 🎓 **PhD em Engenharia de Computação** (créditos) - UFPR _(2022)_
 - 🎓 **Mestrado em Ciência da Computação** (IA) - UFPR _(2010-2012)_
 - 🎓 **Tecnologia em Sistemas de Informação** - UTFPR _(2004-2007)_
 
-## 🌟 Soft Skills
+<div align="center">
+
+## Soft Skills
+
+</div>
 
 <div align="center">
 
@@ -126,7 +134,11 @@ Olá! Sou o **Diogo Cezar**, um apaixonado por tecnologia com **18+ anos de expe
 
 </div>
 
-## 🎯 Interesses & Fun Facts
+<div align="center">
+
+## Interesses & Fun Facts
+
+</div>
 
 ### 🤖 **Tech & Carreira**
 
@@ -142,11 +154,15 @@ Olá! Sou o **Diogo Cezar**, um apaixonado por tecnologia com **18+ anos de expe
 
 ### 🦕 **Curiosidades**
 
-- **Internet Dinosaur**: Mais velho que um disquete 💾
-- **Empreendedor**: Co-fundador de startups de sucesso
+- **Internet Dinosaur**: Estou aqui a bastante tempo
 - **AI Enthusiast**: Sempre explorando novas possibilidades da IA
+- **BBB**: Passei 36 horas na casa do BigBrother Brasil
 
-## 📊 Estatísticas do GitHub
+<div align="center">
+
+## Estatísticas do GitHub
+
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=diogocezar&show_icons=true&theme=dark&bg_color=160830&title_color=EA00A4&text_color=FFFFFF&icon_color=147897&hide_border=true" alt="GitHub Stats" />
@@ -157,7 +173,11 @@ Olá! Sou o **Diogo Cezar**, um apaixonado por tecnologia com **18+ anos de expe
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogocezar&layout=compact&theme=dark&bg_color=160830&title_color=EA00A4&text_color=FFFFFF&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🌍 Vamos Conectar?
+<div align="center">
+
+## Entre em contato
+
+</div>
 
 <div align="center">
   <a href="https://diogocezar.dev" target="_blank">
@@ -179,5 +199,5 @@ Olá! Sou o **Diogo Cezar**, um apaixonado por tecnologia com **18+ anos de expe
 </div>
 
 <div align="center">
-  <img src=".github/footer.png" alt="Diogo Cezar - Logotipo" width="300"/>
+  <img src=".github/footer.png" alt="Diogo Cezar - Logotipo" width="200"/>
 </div>
