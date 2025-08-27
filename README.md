@@ -169,7 +169,7 @@ Olá! Sou o **Diogo Cezar**, um apaixonado por tecnologia com **18+ anos de expe
 
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=diogocezar&theme=dark&background=160830&stroke=EA00A4&ring=147897&fire=EA00A4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=147897&hide_border=true" alt="GitHub Streak" /> -->
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogocezar&layout=compact&theme=dark&bg_color=160830&title_color=EA00A4&text_color=FFFFFF&hide_border=true" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogocezar&layout=compact&theme=dark&bg_color=160830&title_color=EA00A4&text_color=FFFFFF&hide_border=true" alt="Top Languages" /> -->
 </div>
 
 <div align="center">
