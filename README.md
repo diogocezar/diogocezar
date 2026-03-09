@@ -161,10 +161,6 @@ Olá! Sou o **Diogo Cezar**, um apaixonado por tecnologia com **18+ anos de expe
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diogocezar&show_icons=true&theme=dark&bg_color=160830&title_color=EA00A4&text_color=FFFFFF&icon_color=147897&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
 
 ## Entre em Contato
 
