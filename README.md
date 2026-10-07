@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=diogocezar&color=EA00A4&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<div align="center">
 
 ## Sobre Mim
 
